@@ -118,4 +118,4 @@ If you like this project, feel free to ⭐ the repository and connect!
 ## 📬 Contact
 
 👤 Built by: *Anas (Data Analyst Portfolio Project)*  
-📊 Focus: Data Analytics | Power BI | Business Intelligence  
+📊 Focus: Data Analytics | Power BI  
